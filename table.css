@@ -1,15 +1,14 @@
 table,th,td{
-    border: 1px solid black;
-    border-collapse: collapse;
+    border: 2px solid red;
 }
-table {
+
+table{
     width: 100%;
 }
-th {
-    height: 70px;
+
+.midStyle tr,td{
+    height: 300px;
 }
-div{
-    border: 1px solid;
-    margin: 10px;
-    text-align: center;
+.topStyle tr,th,td{
+    height: 100px;
 }
