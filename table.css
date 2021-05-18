@@ -1,15 +1,21 @@
-table,th,td,tr{
-    border: 2px solid red;
-    padding: 5px;
+table,
+th,
+td {
+    border: 2px solid gray;
+    color: blue;
 }
-
-table{
+table {
     width: 100%;
 }
-
-.midStyle tr,td{
-    height: 300px;
+th {
+    height: 70px;
 }
-.topStyle tr,th,td{
-    height: 100px;
+td {
+    padding: 20px;
+}
+.name {
+    text-align:center;
+}
+.name {
+    text-align: center;
 }
